@@ -18,3 +18,7 @@ git add README.md
 git add .
 4c - committed again
 4d - pushed to the week 2 branch
+git push -u origin FIP-FrontEnd-Week-Two
+5 - add css file
+touch style.css
+5b - updated the html and added some styles
