@@ -17,3 +17,4 @@ git add README.md
 4b - add all for staging again
 git add .
 4c - committed again
+4d - pushed to the week 2 branch
