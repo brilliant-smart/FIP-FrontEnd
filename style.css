@@ -24,6 +24,7 @@
 h1 {
     color: var(--Very-dark-cyan);
     font-family: "Big Shoulders Display", cursive;
+    font-size: 5rem;
     font-weight: 700;
     margin-bottom: 2.5rem;
     text-transform: uppercase;

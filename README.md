@@ -25,5 +25,15 @@ touch style.css
 Checked the log
 git log
 pulled
+<<<<<<< HEAD
 git
 merge this branch to the new branch 'week-two-updates'
+=======
+git pull (already up to date, practiced for collaboration purpose)
+create and new branch for the purpose of merging
+checkout to the new branch
+git checkout week-two-updates
+updated some css
+returned back to the previous branch
+git checkout FIP-FrontEnd-Week-Two
+>>>>>>> week-two-updates
