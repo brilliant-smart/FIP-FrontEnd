@@ -28,3 +28,16 @@ h1 {
     margin-bottom: 2.5rem;
     text-transform: uppercase;
 }
+
+p {
+    color: var(--Dark-cyan);
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 400;
+}
+
+
+footer {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 2rem;
+}
