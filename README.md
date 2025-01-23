@@ -25,4 +25,7 @@ touch style.css
 Checked the log
 git log
 pulled
-git
+git pull (already up to date, practiced for collaboration purpose)
+create and new branch for the purpose of merging
+checkout to the new branch
+git checkout week-two-updates
