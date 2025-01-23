@@ -26,3 +26,4 @@ Checked the log
 git log
 pulled
 git
+merge this branch to the new branch 'week-two-updates'
