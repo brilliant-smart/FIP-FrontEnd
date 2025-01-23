@@ -22,3 +22,7 @@ git push -u origin FIP-FrontEnd-Week-Two
 5 - add css file
 touch style.css
 5b - updated the html and added some styles
+Checked the log
+git log
+pulled
+git
